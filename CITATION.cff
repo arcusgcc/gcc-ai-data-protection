@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this checklist, please cite it as below."
+title: "AI use and personal data in Qatar: an open checklist (PDPPL and QFC DPR 2021)"
+version: "1.0"
+date-released: "2026-11-06"
+authors:
+  - name: "ARCUS LLC"
+    city: "Doha"
+    country: "QA"
+    website: "https://arcus.consulting"
+license: CC-BY-4.0
+keywords: [AI governance, data protection, PDPPL, Qatar, QFC, GCC, privacy, artificial intelligence]
