@@ -8,5 +8,6 @@ authors:
     city: "Doha"
     country: "QA"
     website: "https://arcus.consulting"
+doi: "10.5281/zenodo.24009596"
 license: CC-BY-4.0
 keywords: [AI governance, data protection, PDPPL, Qatar, QFC, GCC, privacy, artificial intelligence]

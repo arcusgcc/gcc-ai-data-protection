@@ -2,6 +2,10 @@
 
 Free, open resources for companies in Qatar and the Gulf that use AI tools with personal data.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24009596.svg)](https://doi.org/10.5281/zenodo.24009596)
+
+Cite as: ARCUS LLC; Nyssen, N. (2026). *AI use and personal data in Qatar: an open checklist (PDPPL and QFC Data Protection Regulations 2021)*, v1.0. Zenodo. https://doi.org/10.5281/zenodo.24009596
+
 | File | What it is |
 |---|---|
 | [CHECKLIST-QATAR-AI.md](CHECKLIST-QATAR-AI.md) | 13-point checklist: AI use and personal data under Qatar's PDPPL and the QFC Data Protection Regulations 2021. Each point cites its article. |
